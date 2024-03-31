@@ -13,7 +13,7 @@ git clone https://github.com/hossein797/Pick-a-Hand-game.git
 pip install -r requirements.txt
 ```
 
-## Usage
+## How to use
 
 Run **golyapooch.py** file.
 > [!NOTE]  
